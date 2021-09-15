@@ -18,7 +18,9 @@ int main() {
 
     while(getline(inputFile, line)) {
         int number = stoi(line);
-        outputFile << dwucyfrowa(number) << endl;
+        if (dwucyfrowa(number)) {
+            outputFile << dwucyfrowa(number) << endl;
+        }
     }
 
     outputFile.close();
