@@ -1,0 +1,3 @@
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/autoswitch/cmake-build-debug/CMakeFiles/autoswitch.dir
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/autoswitch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/autoswitch/cmake-build-debug/CMakeFiles/rebuild_cache.dir

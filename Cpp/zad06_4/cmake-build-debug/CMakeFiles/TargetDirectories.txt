@@ -1,0 +1,3 @@
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/zad06_4/cmake-build-debug/CMakeFiles/zad06_4.dir
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/zad06_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/zad06_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

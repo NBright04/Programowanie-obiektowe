@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/k14_3pr02/Documents/Programowanie obiektowe/Cpp/46/main.cpp
+iostream
+-
+cstdlib
+-
+fstream
+-
+
